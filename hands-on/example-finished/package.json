@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "A simple example.",
+  "main": "app/main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "Felix Starke",
+  "license": "ISC",
+  "dependencies": {
+      "electron": "^2.0.2"
+  }
+}
